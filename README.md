@@ -1,7 +1,2 @@
 # intern_training
-
-
-
-michishiota
-
-aas
+kami
